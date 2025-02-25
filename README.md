@@ -25,7 +25,11 @@ This tool transforms XML anime list files into the standard MyAnimeList format t
 ## Usage
 
 ```bash
-ruby convert_to_mal.rb INPUT_FILE [-o OUTPUT_FILE]
+ruby anhilist.rb INPUT_FILE [-o OUTPUT_FILE]
+
+# or 
+
+python canhilist.py INPUT_FILE [-o OUTPUT_FILE]
 ```
 
 ### Arguments
@@ -36,7 +40,7 @@ ruby convert_to_mal.rb INPUT_FILE [-o OUTPUT_FILE]
 ### Example
 
 ```bash
-ruby convert_to_mal.rb hianime_mal_export_list.xml -o my_anilist_import.xml
+ruby anhilist.rb hianime_mal_export_list.xml -o my_anilist_import.xml
 ```
 
 ## XML Format Support
