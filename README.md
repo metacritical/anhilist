@@ -1,4 +1,4 @@
-# Ahilist
+# Anhilist
 
 MAL to anilist xml exporter.
 
