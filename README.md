@@ -29,7 +29,7 @@ ruby anhilist.rb INPUT_FILE [-o OUTPUT_FILE]
 
 # or 
 
-python canhilist.py INPUT_FILE [-o OUTPUT_FILE]
+python anhilist.py INPUT_FILE [-o OUTPUT_FILE]
 ```
 
 ### Arguments
